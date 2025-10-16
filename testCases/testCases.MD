@@ -143,9 +143,4 @@
 
 ---
 
-## 🎯 Conclusão
-
-Esses casos de teste foram criados como **ponto de partida** para apoiar a exploração do PhotoGram.  
-Eles **não cobrem todos os cenários** e deixam margem para descoberta de comportamentos inesperados, incentivando a observação, experimentação e pensamento crítico — pilares do **teste exploratório**.
-
 > 🐞 *Desafie-se a ir além dos passos descritos. Questione, investigue e descubra o que o sistema realmente faz.*
