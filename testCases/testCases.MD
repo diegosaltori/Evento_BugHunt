@@ -143,4 +143,50 @@
 
 ---
 
+## 🧪 Casos de Teste — Tela de Perfil
+
+---
+
+### Caso de Teste 1: Visualizar Perfil de Outro Usuário
+
+**Versão:** 1.0  
+**Título:** Visualizar perfil de outro usuário e seus últimos posts  
+
+**Passos:**
+1. Faça login com um usuário válido.  
+2. No feed de postagens, clique no botão **Ver Perfil** de um post criado por outro usuário.  
+3. Verifique se a tela de perfil do usuário é exibida.  
+4. Confira se:
+   - Foto do perfil ou ícone padrão é exibido.  
+   - Nome do usuário está visível.  
+   - Seção “Sobre mim” está preenchida (ou mensagem informativa se vazia).  
+   - Últimos 5 posts aparecem em grid, com cada post clicável.  
+
+**Resultado Esperado:**
+- Perfil do usuário carregado corretamente, posts exibidos, e layout consistente.  
+- Bugs intencionais podem causar desalinhamento de grid ou falha no carregamento de imagens.
+
+---
+
+### Caso de Teste 2: Visualizar e Editar Próprio Perfil
+
+**Versão:** 1.0  
+**Título:** Acessar e editar o próprio perfil via modal  
+
+**Passos:**
+1. Faça login com um usuário válido.  
+2. Acesse sua própria tela de perfil.  
+3. Clique no botão **Editar Perfil** para abrir a modal de edição.  
+4. Tente atualizar:
+   - Nome de usuário  
+   - Descrição “Sobre mim”  
+   - Foto de perfil  
+5. Salve as alterações e verifique se elas aparecem imediatamente no perfil.  
+
+**Resultado Esperado:**
+- Modal abre corretamente, alterações são salvas e exibidas.  
+- Bugs intencionais podem impedir abertura da modal, não atualizar fotos ou causar desalinhamento de layout.
+
+---
+
 > 🐞 *Desafie-se a ir além dos passos descritos. Questione, investigue e descubra o que o sistema realmente faz.*

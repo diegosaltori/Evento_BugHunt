@@ -14,8 +14,15 @@ O sistema possui funcionalidades de registro, login, criação, edição e exclu
 
 A funcionalidade de **criação de postagens** conta ainda com **integração de Inteligência Artificial (IA)**, permitindo sugerir melhorias automáticas no texto da descrição, aprimorando a clareza e o estilo das postagens de forma dinâmica.
 
+Além disso, o **PhotoGram** disponibiliza uma **tela de perfil** para cada usuário, onde é possível visualizar:  
+- **Foto do perfil** e nome do usuário;  
+- **Descrição "Sobre mim"**, com informações fornecidas pelo próprio usuário;  
+- **Últimos posts** do usuário exibidos em formato de grid com miniaturas das imagens;  
+- **Visualização do perfil de outros usuários**, acessível diretamente a partir de qualquer postagem, sem a possibilidade de edição, garantindo a distinção entre o perfil do próprio usuário e perfis de terceiros.  
+
 Durante o evento **Bug Hunt**, esta aplicação é utilizada como ambiente de testes controlado, contendo falhas intencionais de implementação e interpretação de requisitos.  
 Essas falhas foram inseridas para simular situações reais de desenvolvimento, incentivando a análise crítica de histórias de usuário, validações e comportamento da interface.
+
 
 ---
 
