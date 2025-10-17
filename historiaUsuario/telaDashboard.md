@@ -1,5 +1,8 @@
 ## 🏠 Tela de Dashboard
 
+### Prototipo
+![Tela de Dashboard](../prototipos/dashboard.png)
+
 ### 📘 História de Usuário
 > Como **usuário logado**, quero visualizar todas as postagens e poder filtrar, editar ou excluir as que desejo.
 

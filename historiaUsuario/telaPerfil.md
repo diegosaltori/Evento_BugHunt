@@ -1,5 +1,7 @@
 ## 👤 Tela de Perfil de Outro Usuário
 
+### Prototipo
+![Tela Perfil](../prototipos/perfil.png)
 ### 📘 História de Usuário
 > Como **usuário logado**, quero acessar a tela de perfil de outro usuário através da postagem criada por ele para visualizar suas informações públicas, fotos de perfil e últimos posts, de forma que eu possa conhecer melhor outros usuários da plataforma.
 

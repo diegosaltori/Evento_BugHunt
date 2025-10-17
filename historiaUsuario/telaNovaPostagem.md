@@ -1,5 +1,7 @@
 ## ➕ Tela de Nova Postagem (Add)
 
+### Prototipo
+![Tela + Nova Postagem](../prototipos/novaPostagem.png)
 ### 📘 História de Usuário 1 — Criação de Postagem
 > Como **usuário logado**, quero criar uma nova postagem adicionando fotos e descrição para compartilhar com outros usuários.
 
